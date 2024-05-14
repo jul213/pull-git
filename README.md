@@ -1,4 +1,4 @@
-# repositorio para practicar git-pull =)
+# eliminar el repositorio =)
 repositorio de practica
 se puede eliminar el repositorio
 esta vacio
